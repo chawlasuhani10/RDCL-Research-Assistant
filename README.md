@@ -1,4 +1,5 @@
-# RDCL-Research-Assistant
+# RDCLL-Research-Assistant
+### RDCL- Reasoning, Decision-Making, Computational Modeling Laboratory 
 I am a Research Assistant to Melisa Akana, a post doctoral student at Reasoning Decision Making and Computational Laboratory, UMass Amherst.
 This is a place where I document my progress for the same. 
 
